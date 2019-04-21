@@ -10,8 +10,11 @@ Install the below packages  -
   - pip3/pip install pandas
   - pip3/pip install json
 
-Clone the repository and open the Server Health Monitoring folder
 
-Open the Server_Flask.py file in your Pyhton IDE and execute the file.
+Steps to open the website - 
 
-Now to access the website, open your local browser and hit the "127.0.0.1:5000" .
+    Clone the repository and open the Server Health Monitoring folder
+
+    Open the Server_Flask.py file in your Pyhton IDE and execute the file.
+
+    Now to access the website, open your local browser and hit the "127.0.0.1:5000" .
