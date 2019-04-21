@@ -18,4 +18,4 @@ Steps to open the website -
 
     - Open the Server_Flask.py file in your Pyhton IDE and execute the file.
 
-    - Now to access the website, open your local browser and hit the "127.0.0.1:5000" .
+    - Now to access the website, open your local browser and hit the "http://127.0.0.1:5000/" .
